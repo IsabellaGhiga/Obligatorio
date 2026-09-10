@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Obligatorio.Documentacion/">
+    <File Path="Libreria.Documentacion/DiagramaClaseN3D.asta" />
+  </Folder>
+  <Project Path="Obligatorio.AppWeb\Obligatorio.AppWeb.csproj" />
+  <Project Path="Obligatorio.Infraestructura\Obligatorio.Infraestructura.csproj" />
+  <Project Path="Obligatorio.LogicaAplicacion\Obligatorio.LogicaAplicacion.csproj" />
+  <Project Path="Obligatorio.LogicaNegocio\Obligatorio.LogicaNegocio.csproj" />
+</Solution>
